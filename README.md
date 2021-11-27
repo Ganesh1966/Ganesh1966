@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkataraman E</h1>
-<h3 align="center">A passionate full stack frontend developer from India</h3>
+<h3 align="center">A passionate full stack Web developer from India</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Developement**
 
