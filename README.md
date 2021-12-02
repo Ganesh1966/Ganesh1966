@@ -3,9 +3,8 @@
 
 -   💻 I’m a full stack web developer.
 -   🌱 I love to code, build things & solve problems. <br/>
--   ⚡ For fun, I like to play chess, <br/>
 -   💬 Ask me about **Java, MySQL, Spring Boot & DS**
--   🗺️ Want to know more? Check out my portfolio <a target="_blank" href="https://venkataraman-ethirajan.netlify.app/">here 🌐</a> <br/>
+-   🗺️ Connect with me <a target="_blank" href="https://venkataraman-ethirajan.netlify.app/">here 🌐</a> <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
