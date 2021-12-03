@@ -4,7 +4,9 @@
 -   💻 I’m a full stack web developer.
 -   🌱 I love to code, build things & solve problems. <br/>
 -   💬 Ask me about **Java, MySQL, Spring Boot & DS**
--   🗺️ Connect with me <a target="_blank" href="https://venkataraman-ethirajan.netlify.app/">here 🌐</a> <br/>
+-   👨‍💻 Click to know more [https://venkataraman-ethirajan.netlify.app/](https://venkataraman-ethirajan.netlify.app/)
+-   📫 How to reach me **ganeshethiraj185@gmail.com**
+-   📄 Know about my experiences [https://venkataraman-ethirajan.netlify.app/Images/fw11_154_Venkataraman_Ethirajan_resume.pdf](https://venkataraman-ethirajan.netlify.app/Images/fw11_154_Venkataraman_Ethirajan_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
